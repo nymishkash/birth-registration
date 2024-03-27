@@ -1,3 +1,49 @@
+# Digit.org Backend Development - Birth Registration Service
+
+Welcome to the repository for the backend development of the Birth Registration Service for Digit.org. This project leverages modern technologies and follows the guidelines provided by Digit.org's tutorials and backend developer guide.
+
+## Tech Stack
+- Spring Boot: Framework for building Java-based applications.
+- Docker: Containerization platform for packaging, distributing, and running applications.
+- Kubernetes (kubectl): Container orchestration tool for automating deployment, scaling, and management of containerized applications.
+- PostgreSQL: Open-source relational database management system.
+- Apache Kafka: Distributed event streaming platform for building real-time data pipelines and streaming applications.
+- Homebrew: Package manager for macOS, used for managing software dependencies.
+- Postman: Collaboration platform for API development.
+- Swagger: Framework for designing, building, documenting, and consuming RESTful APIs.
+
+## Project Overview
+This project serves as the backend system for Digit.org's Birth Registration Service. It handles various functionalities related to birth registration, ensuring seamless processing and management of birth records. The implementation adheres to the guidelines and best practices outlined in Digit.org's tutorials and backend developer guide.
+
+## Getting Started
+To get started with the project, follow these steps:
+
+1. **Clone the Repository**: Clone this repository to your local machine using the following command:
+    ```
+    git clone <repository_url>
+    ```
+
+2. **Set Up Environment**: Make sure you have the required software installed on your system, including Docker, Kubernetes (kubectl), PostgreSQL, Apache Kafka, Homebrew, Postman, and Swagger.
+
+3. **Build and Run**: Follow the instructions provided in the project's documentation to build and run the application locally or deploy it to a Kubernetes cluster.
+
+4. **Test APIs**: Utilize Postman or Swagger to test the APIs exposed by the backend service. Refer to the API documentation for detailed information on endpoints and payload formats.
+
+5. **Contribute**: Feel free to contribute to the project by submitting bug fixes, feature enhancements, or documentation improvements. Follow the guidelines outlined in the CONTRIBUTING.md file.
+
+## Contributors
+- @nymishkash
+
+## License
+This project is licensed under the [License Name] - see the [LICENSE.md](LICENSE.md) file for details.
+
+## Acknowledgments
+- Digit.org for providing tutorials and backend developer guide.
+- Open-source community for the tools and frameworks used in this project.
+
+## Support
+For any inquiries or issues regarding the project, please contact [maintainer_email].
+
 # Swagger generated server
 
 Spring Boot Server 
